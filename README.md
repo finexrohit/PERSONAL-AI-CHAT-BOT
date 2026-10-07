@@ -1,6 +1,6 @@
 This is the [assistant-ui](https://github.com/assistant-ui/assistant-ui) starter project.
 
-## Getting Started
+##  Getting Started
 
 First, add your Google Gemini API key to the `.env.local` file:
 
